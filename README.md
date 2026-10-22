@@ -28,7 +28,7 @@ Optional: swipe gestures, if time remains after completing the core features.
 ## Data and technical plan
 
 - Flutter application with HTTP requests and JSON parsing.
-- Proposed API: TMDB; account access and authenticated requests are not tested yet.
+- API: TMDB. An authenticated feasibility check on 22 October 2026 passed: genre list, genre-filtered movies, movie details, and poster retrieval.
 - Local storage for saved movie IDs, titles, poster references, and watched status.
 - No sign-in, cloud database, or cross-device sync in the current scope.
 - Browsing new movies and loading remote posters require internet access.
@@ -39,8 +39,11 @@ Optional: swipe gestures, if time remains after completing the core features.
 
 Step 1 planning only. Application implementation has not started.
 
-Before submission: confirm remaining group details and membership, test API access,
-and verify collaborator access.
+The API feasibility check used Baran's TMDB account on its Free Developer plan.
+It checks API connectivity and data retrieval; the Flutter app is not implemented yet.
+
+Before submission: confirm remaining group details and membership, review this scope
+as a group, and verify accepted collaborator access.
 
 ## API references
 
