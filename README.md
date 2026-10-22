@@ -11,7 +11,7 @@ on the device.
 | Member | Student ID | Step 1 responsibilities |
 | --- | --- | --- |
 | Baran Aksoy | 33575 | All tasks jointly with Adar: proposal, scope, API feasibility, data requirements, challenges, repository setup, and final review. |
-| Adar Dogru (spelling to confirm) | 34269 | All tasks jointly with Baran: proposal, scope, API feasibility, data requirements, challenges, repository setup, and final review. |
+| Adar Dogru | 34269 | All tasks jointly with Baran: proposal, scope, API feasibility, data requirements, challenges, repository setup, and final review. |
 | TBA | TBA | TBA |
 
 Step 1 coordinator: Baran Aksoy (33575). Third-member details require confirmation with the TA.
