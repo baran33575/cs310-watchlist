@@ -1,0 +1,53 @@
+# Based on Flutter's application template:
+# https://github.com/flutter/flutter/blob/master/packages/flutter_tools/templates/app/.gitignore.tmpl
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IDE configuration
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter/Dart/Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication and obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+.widget_preview/
+
+# Local credentials and machine configuration
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+**/key.properties
+**/local.properties
+secrets/
