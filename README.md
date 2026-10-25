@@ -53,9 +53,10 @@ accounts, cloud synchronization and a shared backend are outside this scope.
 
 Step 1 planning only; the Flutter application has not been implemented.
 An authenticated check using Baran's TMDB Free Developer account passed on
-22 October 2026 for genre listing, genre-filtered discovery, details and poster
-retrieval. Title search is documented by TMDB. The new Flutter search and SQLite
-flows still need implementation and testing.
+25 October 2026 for genres, genre-filtered discovery, Interstellar title search,
+combined Science Fiction + Drama / 2011 onward / TMDB score at least 8 filters,
+movie details and a JPEG poster. This verifies API retrieval only; Flutter search
+and SQLite flows still need implementation and testing.
 
 Baran owns this public repository. Adar has accepted collaborator access as
 **Adar-21**. An invitation was issued to Ozan's confirmed school email on
