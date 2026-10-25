@@ -12,7 +12,7 @@ watchlist with watched status and personal star ratings stored on the device.
 | --- | --- | --- |
 | Baran Aksoy | 33575 | All Step 1 tasks jointly with Adar: proposal, scope, API feasibility, data requirements, challenges, repository setup and final review; Step 1 coordinator. |
 | Adar Doğru | 34269 | All Step 1 tasks jointly with Baran: proposal, scope, API feasibility, data requirements, challenges, repository setup and final review. |
-| Ozan Barış Turgut | Pending confirmation | Review the revised scope and user-input features; write or revise the final data/storage and technical-challenges sections; review the final proposal and README. |
+| Ozan Barış Turgut | 32200 | Review the revised scope and user-input features; write or revise the final data/storage and technical-challenges sections; review the final proposal and README. |
 
 Step 1 coordinator: **Baran Aksoy (33575)**. A different member will coordinate
 the next step. These are assigned responsibilities; all members must review the
@@ -60,7 +60,7 @@ and SQLite flows still need implementation and testing.
 
 Baran owns this public repository. Adar has accepted collaborator access as
 **Adar-21**. An invitation was issued to Ozan's confirmed school email on
-25 October 2026; acceptance remains pending. Ozan's student ID also needs confirmation.
+25 October 2026; acceptance remains pending.
 
 ## Implementation sequence
 
