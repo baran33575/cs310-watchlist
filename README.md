@@ -59,8 +59,8 @@ movie details and a JPEG poster. This verifies API retrieval only; Flutter searc
 and SQLite flows still need implementation and testing.
 
 Baran owns this public repository. Adar has accepted collaborator access as
-**Adar-21**. An invitation was issued to Ozan's confirmed school email on
-25 October 2026; acceptance remains pending.
+**Adar-21**, and Ozan has accepted as **ozanbaristurgutt**. All three group
+members have repository access, verified on 25 October 2026.
 
 ## Implementation sequence
 
